@@ -12,18 +12,16 @@
 - 💖 Apaixonado por Programação.
  
 <hr>
-<div align="display-flex">
+
  
 <a href="https://github.com/DevOrosco">
  
-<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOrosco&theme=2077"/>
-<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevOrosco&theme=2077"/>
-<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevOrosco&theme=2077"/>
-<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOrosco&theme=2077"/> <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevOrosco&theme=2077&utcOffset=8"/>
+| <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOrosco&theme=2077"/> | <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevOrosco&theme=2077"/> | <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevOrosco&theme=2077"/> |
+ | :-: | :-: | :-: |
 
 
- 
-</div>
+| <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOrosco&theme=2077"/> | <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevOrosco&theme=2077&utcOffset=8"/> |
+ | :-: | :-: |
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Orosco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
