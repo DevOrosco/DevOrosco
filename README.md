@@ -12,17 +12,29 @@
 - 💖 Apaixonado por Programação.
  
 <hr>
-<div align="center">
-  <a href="https://github.com/DevOrosco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOrosco&show_icons=true&theme=gotham&hide_border=true&area=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOrosco&layout=compact&langs_count=7&theme=gotham&hide_border=true&area=true"/>
+<div align="display-flex">
+ 
+<a href="https://github.com/DevOrosco">
+ 
+<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOrosco&theme=2077"/>
+<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevOrosco&theme=2077"/>
+<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevOrosco&theme=2077"/>
+<img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOrosco&theme=2077"/> <img height = "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevOrosco&theme=2077&utcOffset=8"/>
+
+
+ 
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Orosco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Orosco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+<div style="display: inline_block"><br>
   <img align="center" alt="Orosco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Orosco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Orosco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Orosco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Orosco-Java" height="47" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Orosco-Spring" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Orosco-MySql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+ 
  </div> 
  
  ##
