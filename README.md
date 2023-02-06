@@ -18,7 +18,9 @@
 <div align="center">
 <br></br>
 <div align="center">
-  
+
+![git](https://user-images.githubusercontent.com/100969180/217046591-aa8c24fa-5f97-41ad-b066-aefe5ca101bb.gif)
+
 ### Tecnologias 
 <div style="display: inline_block" align="center"><br>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
