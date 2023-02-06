@@ -1,6 +1,9 @@
 <img align="right" height="580em" src="https://raw.githubusercontent.com/gist/DevOrosco/3204c49175817eae49c50846a9933bd8/raw/91f5477c153b67e900afd080f4eedc6318a8d662/githubcard.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Terminus&weight=200&pause=1000&color=0EC305&background=000000&center=true&multiline=true&width=435&height=40&lines=Hello.+Welcome+to+my+profile!!)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevOrosco&color=green" alt="Profile views" /> </p>
+
 #
 
 - :technologist: Me chamo Vinicius Orosco, tenho 18 anos e sou de Mogi das Cruzes - SP.
@@ -38,13 +41,6 @@
   <br>
     
 #
-<br><h3 align="centre"><b>Visitantes</b></h3>  
-       <img src="https://komarev.com/ghpvc/?username=DevOrosco&style=plastic&color=C66338" width="180px">
-   
-
-<br></div>
-
-
 
 </div>
  
