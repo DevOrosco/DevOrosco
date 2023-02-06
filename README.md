@@ -1,28 +1,21 @@
-<div align="center">
-      
-![Typing SVG](https://user-images.githubusercontent.com/110676473/211913333-b6ed48b2-e496-47c6-ae84-d59302be690a.svg)
-      
-      
-<img src="https://user-images.githubusercontent.com/110676473/211967594-91043679-a2d5-48b7-a566-69fea30a1ffd.svg">
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/DevOrosco/3204c49175817eae49c50846a9933bd8/raw/91f5477c153b67e900afd080f4eedc6318a8d662/githubcard.svg"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Terminus&size=30&pause=1000&color=0EC305&background=000000&center=true&multiline=true&width=600&lines=Hello.+Welcome+to+my+profile!!)](https://git.io/typing-svg)
+#
 
+- :technologist: Me chamo Vinicius Orosco, tenho 18 anos e sou de Mogi das Cruzes - SP.
 
-<h3 align="center"> 🔭 Meu nome é Vinicius Orosco, Tenho 19 anos e sou de Mogi das Cruzes - SP. <h3>
-<h3 align="center"> 📙Formado em Desenvolvimento Web Java no instituto PROA e estou cursando Analise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes(3/6)<h3>
-<h3 align="center"> 📫 Contate-me no email: orosco.vinicius@gmail.com <h3>
+- :desktop_computer: Cursando Analise e Desenvolvimento de Sistemas (3/6) pela Fatec Mogi das Cruzes.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOrosco&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOrosco&theme=2077) |
-|:-:| :-: |
+- :person_in_tuxedo: Programador WEB Java Jr. formado pelo Instituto Proa.
 
-<div align="center">
-<br></br>
-<div align="center">
+- :books: Atualmente estudando mais a fundo o JAVA.
 
-![git](https://user-images.githubusercontent.com/100969180/217046591-aa8c24fa-5f97-41ad-b066-aefe5ca101bb.gif)
+- :gift_heart: Apaixonado por programação
+#
 
-### Tecnologias 
-<div style="display: inline_block" align="center"><br>
+### Tecnologias
+<div style="display: inline_block" align="left"><br>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode logo"  />
   <img align="center" alt="Orosco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -58,4 +51,3 @@
   
   ![Snake animation](https://github.com/DevOrosco/DevOrosco/blob/output/github-contribution-grid-snake.svg) 
 </div>
-
