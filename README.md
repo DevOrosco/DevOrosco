@@ -12,7 +12,7 @@
 
 - :person_in_tuxedo: Programador WEB Java Jr. formado pelo Instituto Proa.
 
-- :books: Atualmente estudando mais a fundo o JAVA.
+- :books: Atualmente estudando mais a fundo o JAVA(Versão: 17 LTS).
 
 - :gift_heart: Apaixonado por programação
 #
