@@ -1,6 +1,6 @@
 <img align="right" height="580em" src="https://raw.githubusercontent.com/gist/DevOrosco/3204c49175817eae49c50846a9933bd8/raw/91f5477c153b67e900afd080f4eedc6318a8d662/githubcard.svg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Terminus&size=30&pause=1000&color=0EC305&background=000000&center=true&multiline=true&width=600&lines=Hello.+Welcome+to+my+profile!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Terminus&weight=200&pause=1000&color=0EC305&background=000000&center=true&multiline=true&width=435&height=40&lines=Hello.+Welcome+to+my+profile!!)](https://git.io/typing-svg)
 #
 
 - :technologist: Me chamo Vinicius Orosco, tenho 18 anos e sou de Mogi das Cruzes - SP.
